@@ -1,2 +1,3 @@
 # old_python_programs
-my python program during 2015-2017
+My python program during 2015-2017   
+The very first step into Python Programming.   
